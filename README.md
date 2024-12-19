@@ -20,5 +20,6 @@ Objective-Oriented: Despite challenges, the structured objectives kept me focuse
 This project showcases a simple yet effective workflow in data analytics and serves as a strong foundation for my future projects.
 
 **Acknowledgments**
+
 I’m immensely grateful for the wealth of knowledge available online and the resources that guided me through this project. While this project required considerable help and learning, it has been a major step forward in my data analytics journey.
 Feel free to explore the code and the project files. Any feedback or suggestions are highly appreciated!
