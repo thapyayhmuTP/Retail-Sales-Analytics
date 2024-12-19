@@ -1,0 +1,14 @@
+
+Inventory Recommendations
+=========================
+1. For Weeks Ending 2023-12-24 and 2023-12-31:
+   - Forecasted sales show a peak of $500,000+. Increase inventory by 20% for Departments 5 and 10.
+   - Focus on Store 20, as it contributes 25% of total sales.
+
+2. For Weeks Ending 2024-01-15 and 2024-01-22:
+   - Sales are forecasted to drop by 15%. Reduce inventory by 10% for Departments 15 and 30.
+   - Run clearance promotions for low-demand items in underperforming stores.
+
+3. General Holiday Recommendations:
+   - Stock popular holiday items in top-performing stores (20, 4, 14).
+   - Allocate 50% more inventory for Departments 3 and 7 during December holidays.
