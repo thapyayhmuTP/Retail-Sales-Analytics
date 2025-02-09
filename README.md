@@ -1,6 +1,7 @@
 **Retail Sales Analytics Project**
 
 **Overview**
+
 This project focuses on analyzing historical retail sales data from Walmart to identify trends, forecast future sales, and recommend inventory strategies. It marks my first foray into data analytics, a journey of learning and applying Python skills that I have developed since 2019 but had not previously used for analytics tasks.
 
 The dataset was sourced from Kaggle: https://www.kaggle.com/datasets/shailx/walmart-sales-forecasting-dataset/data  
